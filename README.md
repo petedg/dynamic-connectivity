@@ -1,2 +1,1 @@
-dynamic_connectivity
-====================
+Struktura zbiorów roz³¹cznych
